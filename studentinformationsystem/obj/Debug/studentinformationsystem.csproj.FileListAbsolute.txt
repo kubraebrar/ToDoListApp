@@ -1,5 +1,0 @@
-C:\Users\KÜBRA\source\repos\studentinformationsystem\studentinformationsystem\obj\Debug\studentinformationsystem.csproj.AssemblyReference.cache
-C:\Users\KÜBRA\source\repos\studentinformationsystem\studentinformationsystem\obj\Debug\Form1.resources
-C:\Users\KÜBRA\source\repos\studentinformationsystem\studentinformationsystem\obj\Debug\studentinformationsystem.Properties.Resources.resources
-C:\Users\KÜBRA\source\repos\studentinformationsystem\studentinformationsystem\obj\Debug\studentinformationsystem.csproj.GenerateResource.cache
-C:\Users\KÜBRA\source\repos\studentinformationsystem\studentinformationsystem\obj\Debug\studentinformationsystem.csproj.CoreCompileInputs.cache
